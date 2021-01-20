@@ -65,11 +65,11 @@ public class Program {
 			order.addItem(orderItem);
 			
 		}
-		   System.out.println();
-		   System.out.println(order);
+		System.out.println();
+		System.out.println(order);
 	       
 		
-	    read.close();
+	        read.close();
 
 	}
 
