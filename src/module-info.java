@@ -1,0 +1,2 @@
+module composition_enumeration {
+}
