@@ -58,7 +58,7 @@ public class Program {
 			System.out.print("Quantity:");
 			int productQuantity = read.nextInt();
 			
-		    Product product = new Product(productName, productPrice);	
+		        Product product = new Product(productName, productPrice);	
 		    
 			OrderItem orderItem = new OrderItem(productQuantity, productPrice,product);
 			
