@@ -28,7 +28,7 @@ Precondition: java 11
 
 ```bash
 #clone repository
-git clone https://github.com/kelvimSaidel/composition_and_enumeration_java
+git clone https://github.com/kelvimSaidel/composition_and_enumeration_java.git
 
 #enter in the  folder
 cd composition_and_enumeration_java
