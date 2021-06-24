@@ -31,6 +31,9 @@ Precondition: java 11
 git clone https://github.com/kelvimSaidel/composition_and_enumeration_java
 
 #enter in the  folder
+cd composition_and_enumeration_java
+
+#enter in the  folder
 cd src
 
 #enter in the  folder
